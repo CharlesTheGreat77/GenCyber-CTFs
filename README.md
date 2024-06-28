@@ -5,7 +5,7 @@
 # The Messenger
 To Solve:
 Use https://cyberchef.io
-- Base 64 -> Hex -> Text -> ROT13
+- Base64 -> Hex -> ROT13
 
 # Insider
 To Solve:
